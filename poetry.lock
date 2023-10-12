@@ -630,13 +630,13 @@ plugins = ["importlib-metadata"]
 
 [[package]]
 name = "pymysql"
-version = "1.0.2"
+version = "1.1.0"
 description = "Pure Python MySQL Driver"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 files = [
-    {file = "PyMySQL-1.0.2-py3-none-any.whl", hash = "sha256:41fc3a0c5013d5f039639442321185532e3e2c8924687abe6537de157d403641"},
-    {file = "PyMySQL-1.0.2.tar.gz", hash = "sha256:816927a350f38d56072aeca5dfb10221fe1dc653745853d30a216637f5d7ad36"},
+    {file = "PyMySQL-1.1.0-py3-none-any.whl", hash = "sha256:8969ec6d763c856f7073c4c64662882675702efcb114b4bcbb955aea3a069fa7"},
+    {file = "PyMySQL-1.1.0.tar.gz", hash = "sha256:4f13a7df8bf36a51e81dd9f3605fede45a4878fe02f9236349fd82a3f0612f96"},
 ]
 
 [package.extras]
@@ -1081,4 +1081,4 @@ testing = ["func-timeout", "jaraco.itertools", "pytest (>=6)", "pytest-black (>=
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "3f22b0287213cf87951564292d18abec2ec72e606bc601627c8a7a3dea067518"
+content-hash = "ec19eb79d515f19e172f33819aff5351c7fead8f046bc715c595643a8d4c9a7c"
