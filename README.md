@@ -1,15 +1,15 @@
-# AUTO-AH, a fork of [pydarkstar][ghWeb]
+# AUTO-AH, a fork of [ffxiahbot][ghWeb]
 
 A set of command-line tools for interacting with the auction house of an FFXI private server.
 
-* The pydarkstar code can be found [here][ghRep].
-* The pydarkstar website can be found [here][ghWeb].
-* The **Setup** instructions can be found [here][ghSet] (start here!)
-* The **Usage** instructions can be found [here][ghUse].
+* The ffxiahbot code can be found [here][ghRep]
+* The ffxiahbot website can be found [here][ghWeb]
+* The **Setup** instructions can be found [here](https://adamgagorik.github.io/ffxiahbot/setup/) (start here!)
+* The **Usage** instructions can be found [here](https://adamgagorik.github.io/ffxiahbot/usage/)
 
 ---
 
-Please note that this project is itself a fork of pydarkstar, which was developed for the original Darkstar private server emulator.
+Please note that this project is itself a fork of ffxiahbot, which was developed for the original Darkstar private server emulator.
 This project is aimed instead at being used with LandSandBoat and over time may have different features/usage.
 
 | Project            | Status  |
@@ -39,11 +39,10 @@ Here are some links to help you learn how to use a command line.
 [clAll]: https://en.wikipedia.org/wiki/Command-line_interface
 [clWin]: https://en.wikibooks.org/wiki/Windows_Batch_Scripting
 [clLin]: https://en.wikibooks.org/wiki/Linux_For_Newbies/Command_Line
-[ghRep]: https://github.com/AdamGagorik/pydarkstar
-[ghWeb]: http://adamgagorik.github.io/pydarkstar
-[ghSet]: http://adamgagorik.github.io/pydarkstar/markdown/setup.html
-[ghUse]: http://adamgagorik.github.io/pydarkstar/markdown/usage.html
+[ghRep]: https://github.com/AdamGagorik/ffxiahbot
+[ghWeb]: http://adamgagorik.github.io/ffxiahbot
 [DSP]: https://github.com/DarkstarProject/darkstar
 [TPZ]: https://github.com/project-topaz/topaz
 [TPZN]: https://github.com/topaz-next/topaz
 [LSB]: https://github.com/LandSandBoat/server
+
